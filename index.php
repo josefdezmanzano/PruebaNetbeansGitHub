@@ -11,7 +11,18 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // put your code here
+        echo "UUUM, MAMAMIO";
+        
+        
+        
+        
         ?>
+        <p>
+            
+        -----
+            No se esto es un ejemplo para ver el cambio
+        -----
+        
+        </p>
     </body>
 </html>
