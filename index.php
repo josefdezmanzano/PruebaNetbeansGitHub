@@ -15,18 +15,10 @@ and open the template in the editor.
         
         
         
-   echo "holi";
-   
+        
         ?>
         <p>
-   
             
-            madreeeeeeeeeeeeeeeeeeeeee
-            
-            e
-            e
-            e
-            e
         -----
             No se esto es un ejemplo para ver el cambio
         -----
